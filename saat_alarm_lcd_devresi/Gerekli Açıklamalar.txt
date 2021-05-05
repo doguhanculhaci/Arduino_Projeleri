@@ -1,0 +1,26 @@
+1.ADIM = Bu klasör içerisinde bulunan 5 adet rar dosyasında ki klasörleri 
+şu konu kopyalayınız. "arduino-1.8.10\libraries" bu sayede kodların çalışması için
+gerekli kütüphaneleri yüklemiş olacaksınız.
+
+Kütüphaneleri kuramaz ise şu videoya bakabilirsin:
+https://www.youtube.com/watch?v=6_Rtxce9HeA
+
+2.ADIM = Arduino kartınız klone bir kart ise şu adımları izleyerek gerekli kurulumu
+kesinlikle yapmalısınız yoksa kartınıza kod yükleyemezsiniz.
+https://maker.robotistan.com/arduino-uno-suruculeri-nasil-yuklenir-ch340-cipli-klon/
+
+3.ADIM = Tüm bağlantılarınızı yaptıktan sonra arduino yu bilgisayara bağlayın
+ve kodlarınızı yükleyiniz.
+
+
+Bağlantılarda problem yaşarsan bu video da ki çocuğun adımlarını izleyebilirsin:
+Bazı ufak değişikliklerin var sadece kablo sıralarında bunlarıda not olarak ekleledim.
+https://www.youtube.com/watch?v=KkYeSHUBGDM
+
+Senin keypad'in 3x4 bir keypad bu nedenle 9-8-7-6-5-4-3 ya kadar bağlayacaksın.
+Gönderdiğim çizimde de görülmektedir.
+Buzzer PİN = 2' dir.
+
+Bağlantı şeması klasöründe ki SD kart kesinlikle bağlanmaya çalışılmalıdır. SD kart 
+Arduino uno değiştirilip yerine bir başka kart kullanılmadığı sürece aktif hale getirilemez.
+
