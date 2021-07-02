@@ -5,7 +5,7 @@ Bu proje de 2 adet dc motor, 1 adet motor sürücü, 1 adet DHT11, 1 adet MQ2 ga
 seçer isek onun verilerini grafik halinde okuyacağız. Aynı zamanda aracıda mobil app tarafından kontrol edeceğiz.
 
 Devre şemasında motor sürücü ve motor devre şeması eksiktir. Bu nedenle internetten bir motor sürücü videosu izleyerek bu projeye uyarlamanızı tavsiye ediyorum.
-Projenin apk hali ve aia dosyası ve arduino kodları paylaşılmıştır. İster direk app kullanabilir. İsterseniz kendi app'inizi tekrardan programlayabilirsiniz.
+Projenin apk hali, aia dosyası, arduino kodları ve devre şeması dosyaları paylaşılmıştır. İster direk aynı app'i kullanabilir. İsterseniz kendi app'inizi tekrardan programlayabilirsiniz.
 
 ## Proje Resimleri
 
