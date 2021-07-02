@@ -8,6 +8,8 @@ Eğer ki kod bloklarını detaylı bir şekilde inceler iseniz çözebileceğini
 
 Daha sonra Arduino, java ve kotlin gibi kategorilerin kendi sayfalarını tasarladık. Öncelikle bir sayfayı tasarladıktan sonra diğerini kopyala yapıştır şeklinde ilerleyebilirsiniz. Daha sonra projemizde kullanacağım resimleri yükledik. (Sağ alt tarafta yüklenen dosyalar gözükmektedir.) Kod blok kısmında ise soru listesi, cevap listesi ve o sayfaya ait resim listesi oluşturduk. Bu sayede bir sonra ki sayfaya geçişte aslında arka planda index değiştirerek bir sonraki soruya geçiş yapabiliyoruz. Aynı zamanda kullanıcı cevabı verdikten sonra arka planda sorunun doğrulunu kontrol ederek. +25 verilmesini sağladık.
 
+Projenin apk hali ve aia dosyası paylaşılmıştır. İster direk app kullanabilir. İsterseniz kendi app'inizi tekrardan programlayabilirsiniz.
+
 ## Proje Resimleri
 
 ![image](https://user-images.githubusercontent.com/53540561/124223313-2c0be680-db0c-11eb-9c0c-02d59d3f0635.png)
