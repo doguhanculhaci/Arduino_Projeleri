@@ -1,4 +1,4 @@
-# MIT_APP_QUIZ_ME
+# BT_motor_sicaklik_nem_gaz
 
 ## Açıklama
 Bu proje de 2 adet dc motor, 1 adet motor sürücü, 1 adet DHT11, 1 adet MQ2 gaz sensörü kullanılmıştır. Aracın üzerine yerleştirilen bu 3 sensör ile mobil uygulama ile hangisini
