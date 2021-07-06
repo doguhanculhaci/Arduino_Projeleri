@@ -1,0 +1,10 @@
+C:\Users\doguh\Desktop\Tugba Proje\maviCafe\maviCafe\bin\Debug\maviCafe.exe.config
+C:\Users\doguh\Desktop\Tugba Proje\maviCafe\maviCafe\bin\Debug\maviCafe.exe
+C:\Users\doguh\Desktop\Tugba Proje\maviCafe\maviCafe\bin\Debug\maviCafe.pdb
+C:\Users\doguh\Desktop\Tugba Proje\maviCafe\maviCafe\obj\Debug\maviCafe.csprojAssemblyReference.cache
+C:\Users\doguh\Desktop\Tugba Proje\maviCafe\maviCafe\obj\Debug\maviCafe.Form1.resources
+C:\Users\doguh\Desktop\Tugba Proje\maviCafe\maviCafe\obj\Debug\maviCafe.Properties.Resources.resources
+C:\Users\doguh\Desktop\Tugba Proje\maviCafe\maviCafe\obj\Debug\maviCafe.csproj.GenerateResource.cache
+C:\Users\doguh\Desktop\Tugba Proje\maviCafe\maviCafe\obj\Debug\maviCafe.csproj.CoreCompileInputs.cache
+C:\Users\doguh\Desktop\Tugba Proje\maviCafe\maviCafe\obj\Debug\maviCafe.exe
+C:\Users\doguh\Desktop\Tugba Proje\maviCafe\maviCafe\obj\Debug\maviCafe.pdb
