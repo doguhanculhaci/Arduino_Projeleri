@@ -1,7 +1,7 @@
 # otg_motor_control_mobil_app
 
 ## Devre Şeması
-![image](https://user-images.githubusercontent.com/53540561/117149883-4c474f80-adc0-11eb-8dcc-f49b833db4d1.png)
+![image](https://user-images.githubusercontent.com/53540561/143006556-efbafb8f-5218-44ab-b3aa-11e2cfb820b9.png)
 
 ## Açıklama
 OTG ile motor kontrol devresi ve kodlarıdır. Mobil app de dosyalar içerisinde bulunmaktadır. Hem iki motoru tek komu ile kontrol etme hemde iki motoru ayrı ayrı komutlarla kontrol etme sistemleri bulunmaktadır. Aşağıda verilen kod çift motoru ayrı ayrı kontrol etme komutlarıdır.
